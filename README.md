@@ -1,7 +1,14 @@
 <div align="center">
 
-  <!-- SELF-HOSTED ANIMATED SVG BANNER (NEVER BREAKS) -->
-  <img src="./header.svg" width="100%" alt="Prashant Banner" />
+  <!-- STATUS PILLS (SHIELDS.IO - 100% UPTIME) -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/%E2%97%8F_STATUS-OPEN_TO_SDE_%26_FOUNDING_ENGINEER_ROLES-10b981?style=for-the-badge" alt="Status" />
+    <img src="https://img.shields.io/badge/TIMEZONE-US_%26_REMOTE_READY-3b82f6?style=for-the-badge" alt="Timezone" />
+  </p>
+
+  <!-- NATIVE HERO HEADER (ZERO EXTERNAL IMAGE DEPENDENCIES) -->
+  <h1>Hi, I'm Prashant 👋</h1>
+  <h3><b>Full-Stack & Applied AI Engineer  |  Low-Latency Distributed Systems</b></h3>
 
   <br/><br/>
 
